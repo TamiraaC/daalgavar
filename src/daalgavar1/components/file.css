@@ -1,0 +1,57 @@
+.File{
+    width: 83%;
+    height: 700px;
+}
+.File-1{
+    width:100%;
+    height: 700px;
+}
+.File-1-1{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    gap: 31%;
+}
+.File-1-1-1{
+    width: 25%;
+    height: 200px;
+    background-color: green;
+}
+.File-1-1-2{
+    width: 45%;
+    height: 200px;
+}
+.File-2{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    gap: 5%;
+}
+.File-2-1-1{
+    width: 50%;
+    height: 200px;
+    background-color: green;
+}
+.File-2-1-2{
+    width: 45%;
+    height: 200px;
+    background-color: green;
+}
+.File-1-2{
+    width: 100%;
+    height: 580px;
+    margin-top: 20px;
+    display: flex;
+    gap: 5%;
+}
+.File-2-1{
+    width: 80%;
+    height: 580px;
+    background-color: aqua;
+}
+.File-2-2{
+    width: 15%;
+    height: 580px;
+    background-color: aqua;
+}
+
