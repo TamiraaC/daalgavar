@@ -1,0 +1,36 @@
+.bb {
+    width:100%;
+    height: auto;
+    font-size: 10px;
+    gap: 60px;
+    display: flex;
+    display: grid;
+    grid-template-columns:repeat(7, 3fr);
+  }
+  .CC{
+      width: 70px;
+      height: 70px;
+  }
+  .CC img{
+      width: 100%;
+      height: 100%;
+  }
+  .AAA{
+      margin-left: 5px;
+      margin-top: 5px;
+    
+  }
+
+  .gg {
+      display: flex;
+  }
+
+  .CC{
+    LIst-style: none  ;
+  }
+  .abc{
+   margin-left: 16px;
+    font-size: 10px;
+  }
+
+

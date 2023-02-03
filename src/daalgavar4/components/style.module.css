@@ -1,0 +1,22 @@
+.button-black {
+    background-color: rgb(242, 25, 126);
+  }
+  .button-blue {
+    background-color: rgb(192, 223, 54);
+  }
+  .img {
+    width: 100%;
+    height: 70px;
+    margin-right: 100px;
+  }
+  .displaynone {
+    display: none;
+  }
+  p {
+    font-size: 10px;
+    color: aliceblue;
+  }
+  .button {
+    width: 200px;
+    height: 100px;
+  }

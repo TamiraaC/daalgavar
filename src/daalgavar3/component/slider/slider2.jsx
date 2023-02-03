@@ -14,6 +14,7 @@ import './slider2.css'
 const Slider2 = () => {
     const settings = {
         className: "center",
+        
         infinite: true,
         centerPadding: "60px",
         slidesToShow: 6,
